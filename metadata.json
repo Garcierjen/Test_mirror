@@ -1,0 +1,23 @@
+{
+  "name": "Sybau",
+  "version": "67.0.0",
+  "author": "",
+  "contributors": [
+    "Jane Doe",
+    "John Doe"
+  ],
+  "upload_date": "2025-10-06",
+  "description": "This print boku wa sexku su daisuki.",
+  "dependencies": {
+    "cc": "whatever"
+  },
+  "build_instructions": [
+    "just cc the source file"
+  ],
+  "": "cd src && mkdir bin && cc main.c -o 'test.exe' && mv test.exe ./bin",
+  "license": "example",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/username/my_project.git"
+  }
+}
