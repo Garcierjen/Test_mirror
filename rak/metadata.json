@@ -15,13 +15,14 @@
     "just cc the source file"
   ],
   "bin_dir": "C:\\example",
-  "build_cmd": "cd rak && cd src && mkdir bin && cc main.c -o 'test.exe' && mv test.exe ./bin",
+  "build_cmd": "cd rak | cd src | mkdir bin | cc main.c -o 'test.exe' | mv test.exe ./bin",
   "license": "example",
   "repository": {
     "type": "git",
     "url": "https://github.com/username/my_project.git"
   }
 }
+
 
 
 
